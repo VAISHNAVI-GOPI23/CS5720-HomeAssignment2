@@ -76,4 +76,7 @@ Displays 4 feature maps for:
 - Normalization is helpful for bounded-input models (e.g., sigmoid).
 - Standardization often preferred for models sensitive to mean/variance (e.g., neural networks).
 
+## 📽️ Demo Video
+Link: https://1drv.ms/v/c/f0028c921af54720/EcrCv8bTF9NOoi2OCndXFHoBr2iEwXW7thAEx_KLG6ExFg?e=6cVPjW
+
 
